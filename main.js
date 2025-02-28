@@ -304,7 +304,7 @@ function reveal() {
   }
   
   var ifrm = document.createElement("iframe");
-        ifrm.setAttribute("src", "./img/my video.mp4");
+        ifrm.setAttribute("src", " ./img/my video.mp4");
         //ifrm.style.width = `${w}px`;
         //ifrm.style.height = `${h}px`;
         ifrm.style.border = 'none';
